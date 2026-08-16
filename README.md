@@ -1,10 +1,10 @@
-# Hi, I'm Nidhi 👋
+# Hi, I'm Nidhi 
 
-**Software Engineer · Java & Spring Boot · Open to new opportunities**
+**Software Development Engineer · Java & Spring Boot · Open to new opportunities**
 
 ---
 
-I'm a Software Engineer with professional experience building and operating scalable REST APIs and microservices using **Java** and **Spring Boot** in production fintech environments at **Perfios Software Solutions**, with end-to-end ownership of features from development through deployment. Experienced in troubleshooting production issues, root cause analysis, and reliability-focused engineering, with hands-on exposure to Docker, MySQL, Oracle DB, MongoDB, and Redis. Strong CI/CD experience using GitLab, with structured upskilling in Data Structures, Algorithms, System Design and distributed systems fundamentals through an intensive engineering program.
+I'm a Software Development Engineer with professional experience building and operating scalable REST APIs and microservices using **Java** and **Spring Boot** in production fintech environments at **Perfios Software Solutions**, with end-to-end ownership of features from development through deployment. Experienced in troubleshooting production issues, root cause analysis, and reliability-focused engineering, with hands-on exposure to Docker, MySQL, Oracle DB, MongoDB, and Redis. Strong CI/CD experience using GitLab, with structured upskilling in Data Structures, Algorithms, System Design, and distributed systems fundamentals through an intensive engineering program.
 
 Currently deepening my DSA, System Design, and full-stack skills via **Bosscoder Academy** while working on independent projects.
 
